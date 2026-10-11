@@ -1,4 +1,4 @@
 {
-  "datos": {"version":1,"kid":"1933a3b4","emitida":"2026-10-11T16:49:24Z","sal":"27d3fa0ab86bb2c312cf01a34cd609f2","invitados":[],"ultima_version":"","descarga":"","formulario":"","mensaje":""},
-  "firma": "gVOallcxSaIwz6XhAKok88GZAKKqGxLwOmLGg4C03AL0pEFLgGoi+8KpthwdHmqa+2fbvNp/MawtZ8qx4pyXAA=="
+  "datos": {"version":1,"kid":"1933a3b4","emitida":"2026-10-11T16:58:43Z","sal":"27d3fa0ab86bb2c312cf01a34cd609f2","invitados":[{"id":"C8MJ","h":"2b158704503fdfd596754a9c6ba3dce67a4b7040d40c42dec398f47c4e5f63ac","vence":"2027-10-11"}],"ultima_version":"","descarga":"","formulario":"","mensaje":""},
+  "firma": "Fgs1Od43qohWqlJUmMXUJy0Py6+X1r5f3btKeYFfNVK2cs2qWWM7O/jObZx7agNUfZTKPywLine65ZAICw62DA=="
 }
